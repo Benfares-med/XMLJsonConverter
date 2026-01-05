@@ -17,6 +17,8 @@ Ce projet a pour but pédagogique de comparer deux approches :
 * **Gestion des Attributs** : Le convertisseur manuel gère les attributs XML et les transforme en champs JSON.
 
 ## Où trouver le vidéo de demonstration ?
+https://drive.google.com/file/d/1mF-kdxDHOCbRULIoDN6XUsL0nijm3MfA/view?usp=drive_link
+
 
 ## Où trouver les codes sources ?
 
